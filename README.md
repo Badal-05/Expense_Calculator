@@ -1,4 +1,4 @@
-# first_app
+# Expense Calculator
 
 A new Flutter project.
 
@@ -6,11 +6,26 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-!["Homepage"](./1.png =250x450)
-![Example image](./2.png =250x450)
-![Example image](./3.png =250x450)
-![Example image](./4.png =250x450)
-![Example image](./5.png =250x450)
+<p style="display: flex; justify-content: center;">
+  <img src="./1.png" width="240" />
+  <img src="./2.png" width="240" />
+  <img src="./3.png" width="240" />
+  <img src="./4.png" width="240" />
+</p>
+
+
+Some of the Widgets used in this project:
+- Stack
+- ListView.builder()
+- SingleChildScrollView
+- Slidable
+
+API's used
+- Google Sheets API
+
+UI specs
+- Dark Theme 
+- Uses Glass Neumorphism
 
 
 A few resources to get you started if this is your first Flutter project:
