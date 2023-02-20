@@ -7,6 +7,10 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ![Example image](./1.png)
+![Example image](./2.png)
+![Example image](./3.png)
+![Example image](./4.png)
+![Example image](./5.png)
 
 
 A few resources to get you started if this is your first Flutter project:
