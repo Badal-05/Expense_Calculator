@@ -10,10 +10,12 @@ This project is a starting point for a Flutter application.
   <img src="./1.png" width="240" />
   <img src="./2.png" width="240" />
   <img src="./3.png" width="240" />
+</p>
+---------------------------------------------------------------------------------------------------------------------------------
+<p style="display: flex; justify-content: center;">
   <img src="./4.png" width="240" />
   <img src="./5.png" width="500" />
 </p>
-
 
 
 
