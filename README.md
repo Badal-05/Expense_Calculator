@@ -6,7 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![alt text](https://github.com/[Badal-05]/[Expense_Calculator]/blob/[master]/1.png?raw=true)
+![Example image](./1.png)
+
 
 A few resources to get you started if this is your first Flutter project:
 
