@@ -12,6 +12,8 @@ This project is a starting point for a Flutter application.
   <img src="./3.png" width="240" />
   <img src="./4.png" width="240" />
 </p>
+<img src="./5.png" alt="Example image" width="500"/>
+
 
 
 Some of the Widgets used in this project:
