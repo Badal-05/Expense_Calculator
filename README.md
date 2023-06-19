@@ -1,11 +1,20 @@
-# Expense Calculator
+<h1 align="center">Expense Calculator</h1>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">An intuitive expense calculator app designed to help you manage your finances with ease.</p>
 
+## Features
+
+- Simple and user-friendly interface for quick expense tracking.
+- Add expenses under different categories to maintain organized records.
+- Calculate and visualize your expenses using charts and graphs.
+- Set budget limits and receive notifications when approaching the limits.
+- Export and share expense reports for better financial planning.
+
+
+
+## Screen Shots
 <p style="display: flex; justify-content: center;">
   <img src="./1.png" width="240" />
   <img src="./2.png" width="240" />
