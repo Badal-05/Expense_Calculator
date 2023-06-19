@@ -8,9 +8,6 @@
 
 - Simple and user-friendly interface for quick expense tracking.
 - Add expenses under different categories to maintain organized records.
-- Calculate and visualize your expenses using charts and graphs.
-- Set budget limits and receive notifications when approaching the limits.
-- Export and share expense reports for better financial planning.
 
 
 
